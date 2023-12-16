@@ -7,11 +7,11 @@ Follow this minimal quick start guide to get your contracting business off the g
 - Simplest is sole proprietorship  
 - [Inherent option](docs/business-structure/01-sole-proprietorship.md) for all US citizens
 
-## ✅ Step 2: [Obtain an EIN](/docs/registrations/ein) 
+## ✅ Step 2: [Obtain an EIN](/docs/registrations/ein.md) 
 
 - Apply at https://ein.usa-taxid.com
 
-## ✅ Step 3: [Register on SAM.gov](/docs/registrations/sam-gov)
+## ✅ Step 3: [Register on SAM.gov](/docs/registrations/sam-gov.md)
 
 - Complete at https://sam.gov/content/home  
 
