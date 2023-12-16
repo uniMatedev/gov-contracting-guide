@@ -1,4 +1,4 @@
-## Sole Proprietorship: [Identify Business Structure](gov-contracting-guide/docs/business-structure)
+## Sole Proprietorship: [Identify Business Structure](docs/business-structure)
 
 **Simplest structure is a sole proprietorship** ➡️ one individual owns the company 
 
