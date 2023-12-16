@@ -7,7 +7,6 @@ Follow this minimal quick start guide to get your contracting business off the g
 - Simplest is sole proprietorship
 - Sole proprietorship name will be your first and last name
 - All others should be named according to your buisness and marketing focus.
-- [Inherent option](docs/business-structure/01-sole-proprietorship.md) for all US citizens
 
 ## ✅ Step 2: [Obtain an EIN](/docs/registrations/ein.md) 
 
