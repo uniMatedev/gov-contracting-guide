@@ -2,7 +2,7 @@
 
 Follow this minimal quick start guide to get your contracting business off the ground!
 
-## ✅ Step 1: [Identify Business Structure](/docs/business-structures)
+## ✅ Step 1: [Identify Business Structure](docs/business-structure)
 
 - Simplest is sole proprietorship  
 - [Inherent option](/docs/business-structures#inherent-option) for all US citizens
