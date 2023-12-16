@@ -1,4 +1,4 @@
-## Sole Proprietorship: [Identify Business Structure](business-structure
+## Sole Proprietorship: [Identify Business Structure](/business-structure
 /01-sole-proprietorship.md)
 
 **Simplest structure is a sole proprietorship** ➡️ one individual owns the company 
