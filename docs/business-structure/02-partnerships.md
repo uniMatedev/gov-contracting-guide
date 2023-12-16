@@ -1,3 +1,4 @@
+## Retrunt to Main Page: [Home](/)
 ## Partnership: [Identify Business Structure](../business-structure)
 
 **Partnership has 2+ owners sharing control** 🤝 
