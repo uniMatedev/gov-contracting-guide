@@ -5,7 +5,7 @@ Follow this minimal quick start guide to get your contracting business off the g
 ## ✅ Step 1: [Identify Business Structure](docs/business-structure)
 
 - Simplest is sole proprietorship  
-- [Inherent option](docs/business-structure) for all US citizens
+- [Inherent option](docs/business-structure/01-sole-proprietorship.md) for all US citizens
 
 ## ✅ Step 2: [Obtain an EIN](/docs/registrations/ein) 
 
