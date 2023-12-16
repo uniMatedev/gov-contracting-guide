@@ -1,4 +1,4 @@
-## ✅ Step 1: [Identify Business Structure](/docs/business-structures)
+## Sole Proprietorship: [Identify Business Structure](/docs/business-structures)
 
 **Simplest structure is a sole proprietorship** ➡️ one individual owns the company 
 
