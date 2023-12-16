@@ -1,7 +1,7 @@
 # Project Guidelines
 
 ## Introduction
-Welcome to the [Project Name]! This document outlines the guidelines and standards for contributing to this project. Our goal is to ensure a cohesive and productive environment for all contributors.
+Welcome to the Gov Contracting Guide! This document outlines the guidelines and standards for contributing to this project. Our goal is to ensure a cohesive and productive environment for all contributors.
 
 ## Contributions
 - **Code Contributions**: Submit via pull requests. Please provide clear descriptions and reference relevant issues.
